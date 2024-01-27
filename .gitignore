@@ -1,0 +1,6 @@
+# server side 
+server/node_modules
+server/.env
+
+# client side
+client/node_modules
